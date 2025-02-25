@@ -1,4 +1,4 @@
-#Task 4
+# Task 4
 Этот файл создан демонстрации возможностей Markdown файлов и Git
 ![git image](https://avatars.githubusercontent.com/u/18133?s=280&v=4)
 ---
@@ -71,5 +71,5 @@ _Примеры:_
 
 ---
 
-#Дополнительные материалы:
+# Дополнительные материалы:
 [Git - Documentation](https://git-scm.com/doc)
