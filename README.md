@@ -1,9 +1,9 @@
 # Task 4
-Этот файл создан демонстрации возможностей Markdown файлов и Git
+Короткое руковдоство для старта работы с Git.
 ![git image](https://avatars.githubusercontent.com/u/18133?s=280&v=4)
 ---
 
-#Содержание
+# Содержание
 1. [git help](#git-help)
 2. [git config](#git-config)
 3. [git init](#git-init)
