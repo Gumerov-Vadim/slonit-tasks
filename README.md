@@ -1,5 +1,5 @@
 #Task 4
-Этот файл создан демонастрации возможностей Markdown файлов и Git
+Этот файл создан демонстрации возможностей Markdown файлов и Git
 ![git image](https://avatars.githubusercontent.com/u/18133?s=280&v=4)
 ---
 
