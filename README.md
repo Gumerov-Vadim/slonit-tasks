@@ -1,5 +1,6 @@
 # Task 4
 Короткое руковдоство для старта работы с Git.  
+
 ![git image](https://avatars.githubusercontent.com/u/18133?s=280&v=4)
 ---
 
